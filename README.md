@@ -75,7 +75,8 @@
         "url": "git+https://github.com/functioncallback/session.socket.io.git"
     },
     "scripts": {},
-    "version": "0.2.1"
+    "version": "0.2.1",
+    "bin": {}
 }
 ```
 
